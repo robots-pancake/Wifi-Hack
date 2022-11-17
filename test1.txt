@@ -1,5 +1,10 @@
 I am a seo extert.
 
+<<<<<<< HEAD
 I love my country. sweet home
 
 SEO = Search Engine Optimizations
+=======
+I love my country.
+i have completed.
+>>>>>>> 6f4ea80a46774e9221b3a0667ba861e73944eb5d
